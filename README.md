@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsymyn
 - 👀 I’m interested in JS, PHP, HTML, CSS, Lua, Python
 - 🌱 I’m currently learning Lua, Python
-- 💞️ I’m looking to collaborate on scripting for ArcGIS Pro and Davinci Resolve / Fusion Studio
+- 💞️ I’m looking to collaborate on scripting for ArcGIS Pro, Davinci Resolve / Fusion Studio, and CircuitPython and MicroPython development
 - 📫 How to reach me @tsymyn on Twitter
 
 <!---
